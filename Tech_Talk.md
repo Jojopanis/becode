@@ -86,37 +86,3 @@ Q&A session time!
 + https://www.youtube.com/watch?v=XYMwWfIMZLM
 + https://www.youtube.com/watch?v=F9fmhz-PQ2w
 + https://www.museumofplay.org/
-
-# Personal notes
-  
-+ [x] preservation 
-+ [x] online stores disappearing
-+ [x] online for single players/drm
-+ [x] remakes and remaster --> removes old version form stores
-+ [x] next generation still renders them unusable
-
-- [x] pins corrode on older cartridges
-- [x] save cards battery dies
-- [x] use wear and tear
-- [x] disc scratches
-- [x] RETRO COMPATIBILITY on old hardwares, movies don't have that
-- [x] console wears too
-- [x] as do controllers
-- [x] old standard
-
-+ [x] legal problem
-+ [x] illegal to dump physical media
-+ "loss of sales"
-
-- 866 wii U
-- 1547 3ds
-- 1.2 TB on wii u
-- 267 GB on 3ds
-- 22,791$
-
-+ [x] "Piracy is a result of bad service on the part of game companies" Gabe Newell
-
-- [x] keep asking it
-- [x] put pressure on companies
-- [x] video gamed history foundsation\
-
