@@ -50,7 +50,7 @@
 > "Piracy is a result of bad service on the part of game companies" Gabe Newell
 
 ## Slide 7
-### I'm gonna need a bigger boat
+### Commandeer that ship
 
 - Now that we have a way to preserve game way past their planned hardware life, we need to be able to play them, that's the main point of a game after all. And for that, we have the wonderful PC, able to play older games released on it decades ago with little to no tweaking, and games from all other types of hardware thanks to dedicated members of the community.
 - To do that, you'll need emulators. Those softwares are simulating the hardware of the consoles to be able to play those ripped games we talked about (and other games specifically made for these consoles when they were already out of print. Yes, they exist), and for the most part, started as only little passion projects of a couple of bored devs.
